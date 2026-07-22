@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/rimabarman
   gitUsername: rimabarman
   gitBranch: main
+- name: DADA_ExtendedProperty
+  gitServerName: rimaSCName
+  gitUrl: https://github.com/ParmelaDohling579
+  gitUsername: rimabarman
+  gitBranch: main
 configurationVariables:
   jdbc.SAP TxStore Pool.maxConns: "10"
   jdbcfunc.SAPTxStore.failFastMode: false
